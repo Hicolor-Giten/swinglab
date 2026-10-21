@@ -1,0 +1,12 @@
+{
+  "name": "swinglab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SWING LAB official website",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
