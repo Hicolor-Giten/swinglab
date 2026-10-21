@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="843" height="596" viewBox="0 0 843 596" role="img" aria-labelledby="title desc">
+<title id="title">SWING LAB — INDOOR GOLF STUDIO 24</title><desc id="desc">添付ロゴの見た目を参考に再現した仮SVG。正式なロゴ原本に差し替え予定。</desc>
+<g fill="#000"><circle cx="381" cy="104" r="20"/><path d="M456 119C419 126 391 151 389 177c-3 25 29 36 55 52 68 42 20 94-114 138 83-46 122-85 114-108-7-23-70-40-83-63-23-42 39-74 95-77Z"/><path d="m355 122-105 69c-11 3-16 15-12 24 3 10 13 10 18 3 4-6 1-19 1-25l99-69Z"/></g>
+<g fill="none" stroke="#68a629" stroke-width="3"><circle cx="613" cy="164" r="13.5"/><path d="M600 193C543 303 425 369 302 376" stroke-width="2"/></g>
+<g fill="none" stroke="#000" stroke-width="7" stroke-linecap="square" stroke-linejoin="round"><path d="M137 415h-28c-18 0-18 17-1 17h18c18 0 18 17 0 17H96M179 415l23 34 19-34 23 34 19-34M310 415v34M355 449v-34l39 34v-34M475 415h-28q-10 0-10 9v15q0 10 10 10h31v-15"/></g><circle cx="463" cy="435" r="7.5" fill="#68a629"/>
+<g fill="none" stroke="#68a629" stroke-width="7" stroke-linecap="square" stroke-linejoin="round"><path d="M534 415v24q0 10 10 10h27M620 449l22-34 23 34M639 441h7M713 449v-34h28q10 0 10 9 0 8-10 8h-28m28 0q11 0 11 9 0 8-11 8h-28"/></g>
+<path d="M98 485h105m441 0h106" fill="none" stroke="#000" stroke-width="2"/>
+<text x="219" y="493" fill="#000" font-family="Arial, sans-serif" font-size="21" font-weight="600" font-style="italic" letter-spacing="7">INDOOR GOLF STUDIO <tspan fill="#68a629">24</tspan></text>
+</svg>
